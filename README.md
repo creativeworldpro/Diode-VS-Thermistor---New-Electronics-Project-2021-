@@ -5,6 +5,7 @@ $2 for 1-4 Layer PCBs.
 Get SMT Coupons: https://jlcpcb.com/RTA
 
 
+----------------------------------------------------------------------------------------------------------------------------------
 
 
 Do you thinking to make mini temperature sensor circuit at home? But you don’t have any ideas about making a cheap and simple temperature sensor circuit.
